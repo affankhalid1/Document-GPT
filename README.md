@@ -20,7 +20,7 @@ Document GPT is an AI-powered chatbot designed to assist users by answering ques
 ### 3. Run the App on Localhost:
 - Start the application by running:
     ```bash
-    streamlit run streamlit_bot_app.py
+    streamlit run docbot.py
     ```
 
 ## Additional Information:
