@@ -2,6 +2,12 @@
 
 Document GPT is an AI-powered chatbot designed to assist users by answering questions based on uploaded documents. By leveraging natural language processing, it extracts key information and provides insightful responses, making it easier for users to navigate and understand complex content. Ideal for students, researchers, and professionals, Document GPT enhances information retrieval and knowledge sharing.
 
+## You can try out the Document GPT chatbot directly through this live app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-gpt-pro.streamlit.app/)
+
+Click the link above to access the app.
+
 ## Steps to run Document GPT locally:
 
 ### 1. Set up API Key:
